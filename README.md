@@ -10,4 +10,4 @@ Built bots play against each other during the competition period to gain points.
 My solution ranked 35th out of 1138 teams.
 
 ##
-My solution is based on [@yegorbiryukov's](https://www.kaggle.com/yegorbiryukov) architecture
+My solution is based on [@yegorbiryukov's](https://www.kaggle.com/yegorbiryukov) architecture.
